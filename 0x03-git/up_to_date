@@ -1,1 +1,5 @@
 >up_to_date
+git add .
+git commit -m "How to be up to date with git"
+git pull
+git push
